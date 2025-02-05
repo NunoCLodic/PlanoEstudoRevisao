@@ -1,2 +1,3 @@
 # PlanoEstudoRevisao
- meu plano de estudo de revisoes
+ O meu plano de estudo de revisoes
+ 
